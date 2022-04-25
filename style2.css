@@ -1,0 +1,56 @@
+body
+{
+	background-color: #ddd3db;
+	margin: 0px;
+	font-size: 45px;
+	font-family: Verdana;
+}
+
+header, aside, main, footer, nav, section
+{
+	background-color: #ababab;
+	color: black;
+}
+
+header
+{
+	padding: 60px 60% 40px 4%;
+	margin-top: 0px;
+	float: left;
+}
+
+nav
+{
+	padding: 60px 0 40px;
+}
+
+aside
+{
+	padding-left: 60px;
+	margin: 50px 0;
+	float: right;
+	padding: 1% 15% 0 4%;
+	height: 750px;
+	
+}
+
+section
+{
+	float: left;
+	padding: 1% 60% 0 4%;
+	margin: 50px 0;
+	height: 750px;
+}
+
+footer
+{
+	clear: both;
+	padding: 2% 13% 1% 4%;
+}
+
+article
+{
+	background-color: #eaeaea;
+	margin-top: 50px;
+	padding: 60% 600% 60% 40%;
+}

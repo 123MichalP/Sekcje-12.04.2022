@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+	margin-top: 13%;
+	font-size: 35px;
+}
+
+a
+{
+	text-decoration: none;
+	color: blue;
+	padding: 30px 45px;
+	border: 2px dotted red;
+	background-color: #d6e6ff;
+	
+}

@@ -1,0 +1,41 @@
+body
+{
+	background-color: #ddd3db;
+	margin: 0px;
+	text-align: center;
+	font-size: 65px;
+	font-family: courier new;
+}
+
+header, aside, main, footer
+{
+	background-color: #4a9afb;
+	color: white;
+}
+
+header
+{
+	width: 100%;
+	padding: 50px 0;
+	margin-top: 0px;
+}
+
+aside
+{
+	margin: 50px 0;
+	float: left;
+	padding: 14% 14%;
+}
+
+main
+{
+	float: right;
+	padding: 14% 25%;
+	margin: 50px 0;
+}
+
+footer
+{
+	clear: both;
+	padding: 25px 0;
+}

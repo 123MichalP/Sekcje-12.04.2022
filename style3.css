@@ -67,6 +67,8 @@ footer
 main
 {
 	width: 32.2%;
+	margin-left: 2px;
+	margin-right: 2px;
 	float: left;
 	background-color: #b5e61d;
 	text-align: center;

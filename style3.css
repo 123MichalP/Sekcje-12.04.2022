@@ -1,0 +1,130 @@
+body
+{
+	background-color: white;
+	margin: 0px;
+	font-size: 50px;
+	font-family: Verdana;
+	text-transform: uppercase;
+}
+
+header,nav,aside,main
+{
+	margin-bottom:10px;
+}
+
+header
+{
+	background-color:#c8bfe7;
+	margin-top: 0px;
+	padding: 30px 0;
+	text-align: center;
+}
+
+nav
+{
+	text-align: center;
+	background-color: #ff7f27;
+	padding:40px 0;
+}
+
+aside
+{
+	text-align: center;
+	background-color: #99d9ea;
+	float: left;
+	width: 32.7%;
+	padding: 50px 0;
+	min-height: 1700px;
+	margin: 0 10px;
+}
+article
+{
+	margin: 50px 5%;
+	background-color: #ed1c24;
+	margin-top: 90px;
+	height: 840px;
+	text-align: center;
+}
+
+section
+{
+	background-color: #22b14c;
+	clear: both;
+	margin: 50px 5%;
+	text-align: left;
+	padding-left: 29%;
+	padding-bottom: 340px;
+}
+
+footer
+{
+	background-color: #a349a4;
+	clear: both;
+	padding: 2% 13% 1% 40%;
+}
+
+
+main
+{
+	width: 32.6%;
+	float: left;
+	background-color: #b5e61d;
+	text-align: center;
+	padding-top: 40px;
+}
+
+figure
+{
+	background-color: #fff200;
+	margin: 4% 10%;
+	padding: 0 0 50px 0;
+	text-align: center;
+}
+
+figcaption
+{
+	background-color: #efe4b0;
+	margin: 4% 10%;
+	padding: 0 0 50px 0;
+	text-align: center;
+}
+
+#nav2
+{
+	margin: 48px 10%;
+}
+
+#header2, figure, figcaption
+{
+	margin: 6% 20% 0 0;
+	text-align: left;
+	padding: 0 0 50px 80px;
+}
+
+#sec2
+{
+	height: 670px;
+	padding: 0 10px 0 0;
+	padding-left: 8%;
+}
+
+#sec3
+{
+	padding-bottom: 440px;	
+	margin: 50px 10%;
+	height: 600px;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+#text
+{
+	margin-top: 10px;
+}
+
+#sec1
+{
+	text-align: left;
+	padding-left: 130px;
+	padding-bottom: 640px;	
+}

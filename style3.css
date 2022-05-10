@@ -58,7 +58,6 @@ section
 
 footer
 {
-	clear: both;
 	background-color: #a349a4;
 	clear: both;
 	padding: 2% 13% 1% 40%;
@@ -67,8 +66,7 @@ footer
 
 main
 {
-	clear: both;
-	width: 32.2%;
+	width: 32.3%;
 	margin-left: 2px;
 	margin-right: 2px;
 	float: left;
@@ -133,12 +131,3 @@ figcaption
 	padding-bottom: 640px;	
 }
 
-#aside1
-{
-	float: left;
-}
-
-#aside2
-{
-	float: right;
-}
